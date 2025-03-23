@@ -63,7 +63,7 @@ pip install -r requirements.txt
 ### ▶️ Running the Model
 Run the Jupyter Notebook to train and evaluate the model:
 ```bash
-jupyter notebook Paddy_Doctor.ipynb
+jupyter notebook PaddyDiseaseClassification.ipynb
 ```
 
 ## 📊 Results
