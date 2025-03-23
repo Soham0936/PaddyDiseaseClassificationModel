@@ -6,7 +6,6 @@ The **Paddy Disease Classification Model** leverages **transfer learning** with 
 ## 📂 Dataset
 - **🖼 Training Data:** **10,407** labeled images across **9 disease classes** and **healthy leaves**.
 - **🔍 Test Data:** **3,469** unlabeled images.
-- **📌 Source:** [Kaggle - Paddy Disease Classification](https://www.kaggle.com/)
 
 ## ⚙️ Methodology
 ### 🛠 Data Preparation
